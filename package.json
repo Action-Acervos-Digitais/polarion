@@ -1,5 +1,6 @@
 {
   "name": "dspace-angular",
+  "type": "testing",
   "version": "9.2.0",
   "scripts": {
     "ng": "ng",
